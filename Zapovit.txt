@@ -1,4 +1,17 @@
+
+
+The Dnieper's plunging shore
+My eyes could see,my ears could hear
+
+When I am dead, bury me
+The Dnieper's plunging shore
+To the abode of God,
+The mighty river roar.
+
 When I am dead, bury me //1
+
+In my beloved Ukraine,//2
+//3
 //2
 In my own beloved Ukraine//3
 Amid the spreading plain, //4
@@ -6,10 +19,8 @@ So that the fields, the boundless steppes,//5
 The Dnieper's plunging shore //6
 My eyes could see,my ears could hear //7
 The mighty river roar. //8
-To the abode of God, //14
-
 When from Ukraine the Dnieper bears //9
-//10
+Into the deep blue sea//10
 //11
 These hills and fertile fields --//12
 I'll leave them all and fly away//13
@@ -18,7 +29,6 @@ To the abode of God, //14
 I nothing know of God.//16
 
 
-So that the fields, the boundless steppes,
 
 
 
@@ -26,5 +36,6 @@ So that the fields, the boundless steppes,
 
 
 
-
-
+=======
+>>>>>>> 7ace26cc4a6fe4f0b6ddd0a17c28056df104e7c0
+>>>>>>> 39b8cccbc0f1292d10e9a33a54b7bcf6403df02f
