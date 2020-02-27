@@ -1,1 +1,13 @@
-In my beloved Ukraine,
+<<<<<<< HEAD
+In my beloved Ukraine,//2
+=======
+
+The Dnieper's plunging shore
+My eyes could see,my ears could hear
+
+When I am dead, bury me
+The Dnieper's plunging shore
+To the abode of God,
+The mighty river roar.
+
+>>>>>>> 821fd84f49d824a8009a2dc671c68883ebf60f81
