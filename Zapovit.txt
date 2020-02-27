@@ -1,9 +1,17 @@
-My tomb upon a grave mound high
-The Dnieper's plunging shore
-My eyes could see,my ears could hear
-Amid the spreading plain,
-When I am dead, bury me
-The Dnieper's plunging shore
-To the abode of God,
-The mighty river roar.
-
+When I am dead, bury me //1
+//2
+//3
+Amid the spreading plain, //4
+//5
+The Dnieper's plunging shore //6
+My eyes could see,my ears could hear //7
+The mighty river roar. //8
+When from Ukraine the Dnieper bears //9
+//10
+//11
+These hills and fertile fields --//12
+//13
+To the abode of God, //14
+//15
+I nothing know of God.//16
+>>>>>>> 901343b76eb96365be9a17ca13519b29b8e71901
